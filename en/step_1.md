@@ -1,25 +1,19 @@
-## Introduction
+**Warning: LiPo batteries can be dangerous, and cause chemical fires when treated incorrectly. If you have little or no experience handling LiPo batteries, then you should use a commercial power bank, with safety cerification relevant for you locale.**
 
-Add project description here. What will learners be making?
+To make your own Power Bank, you will need a [Charging Protection Board](https://www.aliexpress.com/item/5V-Step-Up-Power-Module-Lithium-Battery-Charging-Protection-Board-Boost-Converter-LED-Display-USB-For/32845254042.html), an [18650 Battery](https://www.aliexpress.com/item/18650-Battery-rechargeable-18650-26FM-for-flashlight-power-bank-ICR18650-26FM-2600mAh-3-6v-charge18650-rechargeable/32839060640.html) and an [18650 Battery clip](https://www.aliexpress.com/item/New-Plastic-Black-18650-Battery-Holder-3-7V-Clip-Case-With-Wire-Lead-Battery-Storage-High/32731063438.html).
 
-### What you will make
+![components](images/components.jpg)
 
-Add something here to showcase here, for example:
+You will also need access to a soldering iron and some solder.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+--- task ---
+Solder the black lead from the battery clip, to the negative terminal of the board. Then solder the red lead to the positive terminal.
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
+![soldering](images/solder.gif)
+--- /task ---
 
-### What you will learn
+--- task ---
+Once the board has been soldered to the battery clip, insert an 18650 battery. The red LED should flash to indicate it is charging.
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level){:target="_blank"}
-
-### Additional information for educators
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+![charging](images/charging.gif)
+--- /task ---
