@@ -1,6 +1,6 @@
-title: Make your own Power Bank
+title: Make your own power bank
 hero_image: images/banner.png
-description: generic-electronics-power-bank description
+description: How to build a power bank
 theme:
 duration:
 version: 4
@@ -15,5 +15,5 @@ hardware:
 software: 
 site_areas: projects
 steps:
-  - title: Make your own Power Bank
+  - title: Make your own power bank
 
