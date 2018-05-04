@@ -6,7 +6,7 @@ duration:
 version: 4
 listed: false
 ingredient: true
-copyedit: false
+copyedit: true
 last_tested: "2018-04-10"
 curriculum: 
 interests:
