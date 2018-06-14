@@ -13,7 +13,9 @@ Solder the black lead from the battery clip to the negative terminal of the boar
 --- /task ---
 
 --- task ---
-Once you've soldered the board to the battery clip, insert an 18650 battery. The red LED should flash to indicate it is charging.
+Once you've soldered the board to the battery clip, insert an 18650 battery. Often the positive and negative terminals are not marked. The smaller metallic terminal is the positive.
+
+The red LED should flash to indicate it is charging.
 
 ![charging](images/charging.gif)
 --- /task ---
