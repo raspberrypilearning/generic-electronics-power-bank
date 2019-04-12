@@ -6,16 +6,12 @@ To make your own power bank, you will need a [charging protection board](https:/
 
 You will also need access to a soldering iron and some solder.
 
---- task ---
-Solder the black lead from the battery clip to the negative terminal of the board. Then solder the red lead to the positive terminal.
++ Solder the black lead from the battery clip to the negative terminal of the board. Then solder the red lead to the positive terminal.
 
-![soldering](images/solder.gif)
---- /task ---
+    ![soldering](images/solder.gif)
 
---- task ---
-Once you've soldered the board to the battery clip, insert an 18650 battery. Often the positive and negative terminals are not marked. The smaller metallic terminal is the positive.
++ Once you've soldered the board to the battery clip, insert an 18650 battery. Often the positive and negative terminals are not marked. The smaller metallic terminal is the positive.
 
 The red LED should flash to indicate it is charging.
 
 ![charging](images/charging.gif)
---- /task ---
